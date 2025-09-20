@@ -1,0 +1,14 @@
+torch
+transformers
+gradio
+pandas
+torchmetrics
+mlflow
+pyngrok
+pytorch-lightning
+sacremoses
+fastapi
+uvicorn[standard]
+numpy
+Pillow
+sentencepiece
